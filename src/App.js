@@ -1,10 +1,10 @@
 import React from "react";
 import "./App.css";
-import FormikForm from "./FormikForm";
+import FormikForm3 from "./FormikForm3";
 function App() {
   return (
     <div className="App">
-      <FormikForm />
+      <FormikForm3 />
     </div>
   );
 }
